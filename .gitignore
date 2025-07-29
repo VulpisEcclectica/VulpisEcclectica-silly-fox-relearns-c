@@ -1,3 +1,2 @@
 # ignore binary files in repo
-./learn-c-org/code/bin/*
-./cs50/code/bin/*
+learn-c-org/code/bin/
