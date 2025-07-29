@@ -19,7 +19,7 @@ I'll go through the sources above and do the projects, putting down lil writups 
 
 # lessons (Learn-C.org) 
 
-- L1: slightly modified hello world => [code](./code/l1) | [notes](./notes/l1)
-- L2: very basic review of variables and data-types => [code](./code/l2) | [notes](./notes/l2)
+- L1: slightly modified hello world => [code](./learn-c-org/code/l1) | [notes](./learn-c-org/notes/l1)
+- L2: very basic review of variables and data-types => [code](./learn-c-org/code/l2) | [notes](./learn-c-org/notes/l2)
 - L3: basic array review, no need to write notes or code on this one
-- L4: Review of multi dimensional arrays and how an array of _n_ dimensions is analagous to a tensor of order _n_ => no code but decent [notes](./notes/l4)
+- L4: Review of multi dimensional arrays and how an array of _n_ dimensions is analagous to a tensor of order _n_ => no code but decent [notes](./learn-c-org/notes/l4)
