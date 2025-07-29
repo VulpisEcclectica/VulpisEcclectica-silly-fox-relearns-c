@@ -1,0 +1,2 @@
+# ignore binary files in repo, for any sub-project
+*/bin/*
