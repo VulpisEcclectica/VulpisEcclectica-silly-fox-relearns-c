@@ -15,3 +15,10 @@ All this while writing a couple thesis and finishing HS, am I probably a little 
 
 I'll go through the sources above and do the projects, putting down lil writups along the way (again very memory/self focused so won't be super professional). The CS50 ones are in private bot managd repos by harvards design (ikik I do not like them very much but learning is learning ig) but ill copy the stuff I write back over here and do little write ups on it as I go, I am only redoing the C part of that course so I wont be of much help with Python/Javascript sorry.
 
+-----------------------------------------------------------------------
+
+# lessons (Learn-C.org) 
+
+- L1: slightly modified hello world => [code](./code/l1) [notes](./notes/l1)
+- L2: very basic review of variables and data-types => [code](./code/l2) [notes](./notes/l2)
+- L3: basic array review, no need to write notes or code on this one
