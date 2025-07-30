@@ -32,11 +32,13 @@ if (strncmp(name, "Xenia", 3) == 0) {
 # Concatenation
 The `strncat()` function is also of note as it is rather useful when you need to join two strings and functions as follows;
 ```
-const int x = 5;
-char dest[x] = "Hello";
-char src[x] = "World";
-char res[2x] = strncat(dest, src, x);
+char dest[12] = "Hello ";
+char src[6] = "World";
+
+char res[y] = strncat(dest, src, 7);
 printf("%s\n", res);
 ```
-Which 
+This would return the string "Hello World", followed by a new line.
+It is important so consider that no new string is created, rather the source prepended to the destination. 
+This means that the destination string must be of suitable length to contain both originals as well as a null terminator. Further comment can be found in the relating [code](../code/l6)
 [^1]: 36 was used from general practice for databases + 1 for null terminator
