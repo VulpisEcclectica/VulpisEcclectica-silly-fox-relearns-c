@@ -9,7 +9,9 @@ Anyhow, with that out of the way what we can get into the meat of it:
 
 For whatever reason I've decided that the best post burnout project is to learn Rust; first though I need a refresher on memory management so how am I planning to do this? In the most over the top fox-girl way of course! The basic plan is like this 
 
-> Refresh C knowledge (CS50 + LearnC.org) => dive into memory management with x86_64-ASM (various sources) => finally the crab language (docs.rust.org, the rust book, gentle intro, rustonomicon etc)
+> Refresh C knowledge (CS50 + LearnC.org + The C handbook) => \
+> dive into memory management with x86_64-ASM (various sources) => \
+> finally the crab language (docs.rust.org, the rust book, gentle intro, rustonomicon etc)
 
 All this while writing a couple thesis and finishing HS, am I probably a little stupid for doing it this way? (Yea probably) but am I going to do it anyway (Yes!)
 
